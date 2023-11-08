@@ -24,3 +24,6 @@ https://www.youtube.com/%2540GreatStackDev
 video link : https://www.youtube.com/watch?v=G0jO8kUrg-I&ab_channel=GreatStack
 
 Thank you :)
+
+You can visit this link for checking it live , hosted by netlify .
+link : plan-your-day-6969.netlify.app/
