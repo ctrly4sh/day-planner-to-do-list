@@ -1,6 +1,6 @@
 hey, programmers !!!
 
-This is just a simple todo list web app, made with pure html css and javascript, its not repsonsive now , but ill make it responsive in the future soon.
+This is a simple todo list web app, made with pure html css and javascript, its not repsonsive now , but ill make it responsive in the future soon.
 
 I'll make this a complete full stack project from scratch with react , with login and cloud feature in the future soon , i have attached all the assets i used in the assets folder.
 
@@ -26,4 +26,4 @@ video link : https://www.youtube.com/watch?v=G0jO8kUrg-I&ab_channel=GreatStack
 Thank you :)
 
 You can visit this link for checking it live , hosted free using netlify .
-link : https://plan-your-day-6969.netlify.app
+link : https://listdown.netlify.app
