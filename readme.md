@@ -1,8 +1,8 @@
 hey, programmers !!!
 
-This is a simple todo list web app, made with pure html css and javascript, its not repsonsive now , but ill make it responsive in the future soon.
+A minimal todo web app, made with pure html css and javascript, its not repsonsive now , but ill make it responsive in the future soon.
 
-I'll make this a complete full stack project from scratch with react , with login and cloud feature in the future soon , i have attached all the assets i used in the assets folder.
+this is a part of my learning , i have attached all the assets i used in the assets folder.
 
 Tech stack : HTML , CSS , JavaScript
 
